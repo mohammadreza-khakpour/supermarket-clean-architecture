@@ -1,0 +1,17 @@
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.csprojAssemblyReference.cache
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.AssemblyInfo.cs
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.deps.json
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.dll
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.pdb
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.dll
+C:\Users\a\source\repos\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.pdb
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.deps.json
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.dll
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\bin\Debug\netcoreapp3.1\Supermarket.Infrastructure.pdb
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.csprojAssemblyReference.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.AssemblyInfo.cs
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.dll
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Infrastructure\obj\Debug\netcoreapp3.1\Supermarket.Infrastructure.pdb

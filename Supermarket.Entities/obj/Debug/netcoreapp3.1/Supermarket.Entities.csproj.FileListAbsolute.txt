@@ -1,0 +1,17 @@
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.csprojAssemblyReference.cache
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.AssemblyInfo.cs
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.deps.json
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.dll
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.pdb
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.dll
+C:\Users\a\source\repos\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.pdb
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.deps.json
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.dll
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\bin\Debug\netcoreapp3.1\Supermarket.Entities.pdb
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.csprojAssemblyReference.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.AssemblyInfoInputs.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.AssemblyInfo.cs
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.dll
+C:\Users\rezaKh\source\repos\Supermarket\Supermarket\Supermarket.Entities\obj\Debug\netcoreapp3.1\Supermarket.Entities.pdb

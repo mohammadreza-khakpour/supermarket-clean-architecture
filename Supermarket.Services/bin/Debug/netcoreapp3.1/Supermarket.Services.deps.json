@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Supermarket.Services/1.0.0": {
+        "dependencies": {
+          "Supermarket.Entities": "1.0.0",
+          "Supermarket.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Supermarket.Services.dll": {}
+        }
+      },
+      "Supermarket.Entities/1.0.0": {
+        "runtime": {
+          "Supermarket.Entities.dll": {}
+        }
+      },
+      "Supermarket.Infrastructure/1.0.0": {
+        "runtime": {
+          "Supermarket.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Supermarket.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Supermarket.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Supermarket.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
